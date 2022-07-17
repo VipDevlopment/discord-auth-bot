@@ -9,3 +9,9 @@ Install Requirements
 
 * `npm install`
 <br><br>
+
+Contact :
+https://discord.gg/HVSjJSeJVx 
+'spy#1568
+
+Link of the video to install the bot : https://www.youtube.com/watch?v=7oifWzKwZ58
