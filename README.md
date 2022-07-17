@@ -7,6 +7,9 @@ Bot discord auth edit and inspire from ytzmo auth bot
 
 Install Requirements
 
+* `npm install axios@0.21`
+* `npm install chalk@4`
+* `npm install quick.db@7`
 * `npm install`
 <br><br>
 
